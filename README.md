@@ -24,3 +24,16 @@
   <li>Simple multiplication table</li>
  
 </ul>
+<h2>Simple Projects</h2>
+<ul>
+  <li>Guess the Number Game</li>
+  <li>Simple Movie rating program</li>
+  <li>Smple Password VAlidator</li>
+  <li>Simple shopping cart</li>
+ </ul>
+<h2>Strings</h2>
+<ul>
+  <li>Reverse String</li>
+  <li>Printing the size of operators</li>
+  <li>String Concatenation</li>
+</ul>
