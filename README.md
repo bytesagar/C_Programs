@@ -13,3 +13,6 @@
   <li>Finding the average of all grades stored in the array.</li>
   <li>Program to find the sum of all elements stored in the array.</li>
   <li>Program that simply adds values to array and displays in the screen.</li>
+</ul>
+<h2>
+ 
