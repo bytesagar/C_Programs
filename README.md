@@ -37,3 +37,17 @@
   <li>Printing the size of operators</li>
   <li>String Concatenation</li>
 </ul>
+<h2>Switch Case</h2>
+  <ul>
+    <li>Simple Switch case conditions learning.</li>
+  </ul>
+  <h2>Conditional Programs</h2>
+  <ul>
+    <li> C program to accept two integers and check whether they are equal or not</li>
+    <li>C program to check whether a given number is even or odd.</li>
+    <li>C program to check whether a given number is positive or negative.</li>
+    <li>C program to find whether a given year is a leap year or not.</li>
+    <li> C program to read the age of a candidate and determine whether it is eligible for casting his/her own vote.</li>
+    <li>C program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.</li>
+    
+  </ul>
