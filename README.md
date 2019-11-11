@@ -14,5 +14,13 @@
   <li>Program to find the sum of all elements stored in the array.</li>
   <li>Program that simply adds values to array and displays in the screen.</li>
 </ul>
-<h2>
+<h2>Math-Projects</h2>
+<ul>
+  <li>Program to calculate the area of Rectangle</li>
+  <li>Program to find even or odd</li>
+  <li>Simple calculator</li>
+  <li>Program to calculate the area of circle</li>
+  <li>Program to calcuate the area of square</li>
+  <li>Simple multiplication table</li>
  
+</ul>
