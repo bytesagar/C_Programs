@@ -41,6 +41,8 @@
 <h2>Switch Case</h2>
   <ul>
     <li>Simple Switch case conditions learning.</li>
+  <li> C program to print day of week name using switch case.</li>
+  <li>C program print total number of days in a month using switch case.</li>
   </ul>
   <h2>Conditional Programs</h2>
   <ul>
@@ -52,6 +54,7 @@
     <li>C program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.</li>
    <li>C program to accept the height of a person in centimeter and categorize the person according to their height. </li>
   <li>C program to find the largest of three numbers.</li>
+  <li>C program to accept a coordinate point in a XY coordinate system and determine in which quadrant the coordinate point lies.</li>
     
     
   </ul>
