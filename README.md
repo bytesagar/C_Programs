@@ -30,6 +30,7 @@
   <li>Simple Movie rating program</li>
   <li>Smple Password VAlidator</li>
   <li>Simple shopping cart</li>
+  <li> Temperature converter </li>
  </ul>
 <h2>Strings</h2>
 <ul>
@@ -49,5 +50,8 @@
     <li>C program to find whether a given year is a leap year or not.</li>
     <li> C program to read the age of a candidate and determine whether it is eligible for casting his/her own vote.</li>
     <li>C program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.</li>
+   <li>C program to accept the height of a person in centimeter and categorize the person according to their height. </li>
+  <li>C program to find the largest of three numbers.</li>
+    
     
   </ul>
