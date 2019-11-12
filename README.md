@@ -22,6 +22,8 @@
   <li>Program to calculate the area of circle</li>
   <li>Program to calcuate the area of square</li>
   <li>Simple multiplication table</li>
+   <li>C program to accept a coordinate point in a XY coordinate system and determine in which quadrant the coordinate point lies.</li>
+  <li> C program to calculate the root of a Quadratic Equation.</li>
  
 </ul>
 <h2>Simple Projects</h2>
@@ -54,7 +56,7 @@
     <li>C program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.</li>
    <li>C program to accept the height of a person in centimeter and categorize the person according to their height. </li>
   <li>C program to find the largest of three numbers.</li>
-  <li>C program to accept a coordinate point in a XY coordinate system and determine in which quadrant the coordinate point lies.</li>
+ 
     
     
   </ul>
