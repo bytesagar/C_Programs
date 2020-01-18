@@ -9,7 +9,7 @@
 <hr />
 <h2>Arrays</h2>
 <ul>
-  <li>Copying the elements of array1 to array2</li>
+  <li>Copying the elements of array1 to array2. <a href="https://github.com/sagar608/C_Programs/Array">Solution</a></li>
   <li>Finding the average of all grades stored in the array.</li>
   <li>Program to find the sum of all elements stored in the array.</li>
   <li>Program that simply adds values to array and displays in the screen.</li>
